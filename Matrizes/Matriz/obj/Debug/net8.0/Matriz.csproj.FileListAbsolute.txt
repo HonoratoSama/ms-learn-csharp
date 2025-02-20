@@ -1,0 +1,15 @@
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\bin\Debug\net8.0\Matriz.exe
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\bin\Debug\net8.0\Matriz.deps.json
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\bin\Debug\net8.0\Matriz.dll
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\bin\Debug\net8.0\Matriz.pdb
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\Matriz.sourcelink.json
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\Matriz.dll
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\Matriz.pdb
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+D:\Microsoft_Learn\ms-learn-csharp\Matrizes\Matriz\obj\Debug\net8.0\ref\Matriz.dll
