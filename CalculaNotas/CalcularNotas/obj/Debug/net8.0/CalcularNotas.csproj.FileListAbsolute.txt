@@ -1,0 +1,15 @@
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\bin\Debug\net8.0\CalcularNotas.exe
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\bin\Debug\net8.0\CalcularNotas.deps.json
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\bin\Debug\net8.0\CalcularNotas.runtimeconfig.json
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\bin\Debug\net8.0\CalcularNotas.dll
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\bin\Debug\net8.0\CalcularNotas.pdb
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\CalcularNotas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\CalcularNotas.AssemblyInfoInputs.cache
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\CalcularNotas.AssemblyInfo.cs
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\CalcularNotas.csproj.CoreCompileInputs.cache
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\CalcularNotas.sourcelink.json
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\CalcularNotas.dll
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\refint\CalcularNotas.dll
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\CalcularNotas.pdb
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\CalcularNotas.genruntimeconfig.cache
+D:\Microsoft_Learn\ms-learn-csharp\CalculaNotas\calcularnotas\obj\Debug\net8.0\ref\CalcularNotas.dll
