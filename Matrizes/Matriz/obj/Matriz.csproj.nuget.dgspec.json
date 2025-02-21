@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\Matriz\\Matriz.csproj": {}
+    "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\matriz\\Matriz.csproj": {}
   },
   "projects": {
-    "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\Matriz\\Matriz.csproj": {
+    "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\matriz\\Matriz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\Matriz\\Matriz.csproj",
+        "projectUniqueName": "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\matriz\\Matriz.csproj",
         "projectName": "Matriz",
-        "projectPath": "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\Matriz\\Matriz.csproj",
+        "projectPath": "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\matriz\\Matriz.csproj",
         "packagesPath": "C:\\Users\\Honorato\\.nuget\\packages\\",
-        "outputPath": "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\Matriz\\obj\\",
+        "outputPath": "D:\\Microsoft_Learn\\ms-learn-csharp\\Matrizes\\matriz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Honorato\\AppData\\Roaming\\NuGet\\NuGet.Config"
